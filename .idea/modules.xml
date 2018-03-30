@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/manufacturer-service/manufacturer-service.iml" filepath="$PROJECT_DIR$/manufacturer-service/manufacturer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manufacturer-service-app.iml" filepath="$PROJECT_DIR$/manufacturer-service-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manufacturer-service-rest-client/manufacturer-service-rest-client.iml" filepath="$PROJECT_DIR$/manufacturer-service-rest-client/manufacturer-service-rest-client.iml" />
+    </modules>
+  </component>
+</project>
