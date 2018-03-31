@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3caae0d0-91d5-4697-b5a4-e4bacc0fa412" name="Default" comment="" />
+    <list default="true" id="3caae0d0-91d5-4697-b5a4-e4bacc0fa412" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/activities/Actions.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/activities/Actions.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/activities/Activity.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/activities/Activity.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/activities/ClientCreateManufacturerActivity.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/activities/ClientCreateManufacturerActivity.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/activities/ClientReadManufacturerActivity.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/activities/ClientReadManufacturerActivity.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/activities/ClientRemoveManufacturerActivity.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/activities/ClientRemoveManufacturerActivity.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/activities/ClientUpdateManufacturerActivity.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/activities/ClientUpdateManufacturerActivity.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/activities/RepresentationHypermediaProcessor.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/activities/RepresentationHypermediaProcessor.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/domain/Manufacturer.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/domain/Manufacturer.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/exceptions/CannotCancelException.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/exceptions/CannotCancelException.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/exceptions/CannotUpdateManufacturerException.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/exceptions/CannotUpdateManufacturerException.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/exceptions/MalformedManufacturerException.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/exceptions/MalformedManufacturerException.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/exceptions/NotFoundException.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/exceptions/NotFoundException.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/exceptions/ServiceFailureException.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/exceptions/ServiceFailureException.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/network/HttpBinding.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/network/HttpBinding.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/representations/Link.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/representations/Link.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/representations/ManufacturerRepresentation.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/representations/ManufacturerRepresentation.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/representations/Representation.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/representations/Representation.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/representations/converters/ManufacturerConverter.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/representations/converters/ManufacturerConverter.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/test/java/com/gefa/ekf/client/FitTest.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/test/java/com/gefa/manufacturer/client/FitTest.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service-rest-client/src/test/java/com/gefa/fit/domain/TestManufacturerFactory.java" afterPath="$PROJECT_DIR$/manufacturer-service-rest-client/src/test/java/com/gefa/manufacturer/domain/TestManufacturerFactory.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/ManufacturerService.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/ManufacturerService.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/AggregateRoot.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/AggregateRoot.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/Manufacturer.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/Manufacturer.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/ManufacturerCreatedState.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/ManufacturerCreatedState.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/ManufacturerDeletedState.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/ManufacturerDeletedState.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/ManufacturerState.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/ManufacturerState.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/events/DomainEvent.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/events/DomainEvent.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/events/ManufacturerCreatedEvent.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/events/ManufacturerCreatedEvent.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/events/ManufacturerUpdatedEvent.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/events/ManufacturerUpdatedEvent.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/events/handlers/DomainEventHandler.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/events/handlers/DomainEventHandler.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/repositories/ManufacturerRepository.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/repositories/ManufacturerRepository.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/repositories/MapManufacturerRepository.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/repositories/MapManufacturerRepository.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/exceptions/ManufacturerCreationException.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/exceptions/ManufacturerCreationException.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/exceptions/ManufacturerRemovalException.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/exceptions/ManufacturerRemovalException.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/exceptions/ManufacturerUpdateException.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/exceptions/ManufacturerUpdateException.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/exceptions/NoSuchManufacturerException.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/exceptions/NoSuchManufacturerException.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/infrastructure/ActiveMQ.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/infrastructure/ActiveMQ.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/infrastructure/DomainEventsDispatcher.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/infrastructure/DomainEventsDispatcher.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/infrastructure/RXDomainEventsDispatcher.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/infrastructure/RXDomainEventsDispatcher.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/AbstractTransferObject.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/AbstractTransferObject.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/JaxRsActivator.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/JaxRsActivator.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/activities/CreateManufacturerActivity.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/activities/CreateManufacturerActivity.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/activities/ReadManufacturerActivity.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/activities/ReadManufacturerActivity.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/activities/RemoveManufacturerActivity.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/activities/RemoveManufacturerActivity.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/activities/UpdateManufacturerActivity.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/activities/UpdateManufacturerActivity.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/api/SwaggerStartup.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/api/SwaggerStartup.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/error/ErrorCodeNum.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/error/ErrorCodeNum.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/error/GeneralErrorCode.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/error/GeneralErrorCode.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/error/handlers/ExceptionHandler.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/error/handlers/ExceptionHandler.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/error/handlers/NoSuchManufacturerExceptionHandler.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/error/handlers/NoSuchManufacturerExceptionHandler.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/representations/Link.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/representations/Link.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/representations/ManufacturerRepresentation.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/representations/ManufacturerRepresentation.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/representations/Representation.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/representations/Representation.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/representations/converters/ManufacturerConverter.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/representations/converters/ManufacturerConverter.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/resources/ManufacturerResource.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/resources/ManufacturerResource.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/resources/ManufacturerResourceImpl.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/resources/ManufacturerResourceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/server/JettyServer.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/server/JettyServer.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/server/UndertowServer.java" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/server/UndertowServer.java" />
+      <change beforePath="$PROJECT_DIR$/manufacturer-service/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/manufacturer-service/src/main/webapp/WEB-INF/web.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/manufacturer-service-rest-client/target/" />
     <ignored path="$PROJECT_DIR$/manufacturer-service/target/" />
@@ -15,17 +76,27 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="FitTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/test/java/com/gefa/ekf/client/FitTest.java">
+        <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/test/java/com/gefa/manufacturer/client/FitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="83">
+              <caret line="50" column="67" lean-forward="false" selection-start-line="50" selection-start-column="67" selection-end-line="50" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestManufacturerFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/test/java/com/gefa/manufacturer/domain/TestManufacturerFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MapManufacturerRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/repositories/MapManufacturerRepository.java">
+        <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/repositories/MapManufacturerRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -35,27 +106,29 @@
         </entry>
       </file>
       <file leaf-file-name="HttpBinding.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/network/HttpBinding.java">
+        <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/network/HttpBinding.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ManufacturerRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/repositories/ManufacturerRepository.java">
+      <file leaf-file-name="ClientReadManufacturerActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/activities/ClientReadManufacturerActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="195">
+              <caret line="21" column="87" lean-forward="false" selection-start-line="21" selection-start-column="87" selection-end-line="21" selection-end-column="87" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="RXDomainEventsDispatcher.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/infrastructure/RXDomainEventsDispatcher.java">
+        <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/infrastructure/RXDomainEventsDispatcher.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
@@ -65,7 +138,7 @@
         </entry>
       </file>
       <file leaf-file-name="ManufacturerResourceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/resources/ManufacturerResourceImpl.java">
+        <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/resources/ManufacturerResourceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-78">
               <caret line="17" column="63" lean-forward="false" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
@@ -74,8 +147,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ManufacturerResource.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/resources/ManufacturerResource.java">
+      <file leaf-file-name="ManufacturerResource.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/resources/ManufacturerResource.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
               <caret line="47" column="58" lean-forward="false" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
@@ -85,7 +158,7 @@
         </entry>
       </file>
       <file leaf-file-name="UndertowServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/server/UndertowServer.java">
+        <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/server/UndertowServer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="33" column="28" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="48" />
@@ -95,23 +168,13 @@
         </entry>
       </file>
       <file leaf-file-name="DomainEventsDispatcher.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/infrastructure/DomainEventsDispatcher.java">
+        <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/infrastructure/DomainEventsDispatcher.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
               <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ManufacturerCreatedEvent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/events/ManufacturerCreatedEvent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -125,6 +188,9 @@
       <find>sset</find>
       <find>asset</find>
     </findStrings>
+    <replaceStrings>
+      <replace>manufacturer</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -151,7 +217,6 @@
         <option value="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/representations/converters/ManufacturerConverter.java" />
         <option value="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/ManufacturerService.java" />
         <option value="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/activities/RepresentationHypermediaProcessor.java" />
-        <option value="$PROJECT_DIR$/manufacturer-service-rest-client/src/test/java/com/gefa/fit/domain/TestManufacturerFactory.java" />
         <option value="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/repositories/MapManufacturerRepository.java" />
         <option value="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/infrastructure/DomainEventsDispatcher.java" />
         <option value="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/ekf/application/infrastructure/RXDomainEventsDispatcher.java" />
@@ -160,12 +225,24 @@
         <option value="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/server/UndertowServer.java" />
         <option value="$PROJECT_DIR$/manufacturer-service-rest-client/src/test/java/com/gefa/ekf/client/FitTest.java" />
         <option value="$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/resources/ManufacturerResource.java" />
+        <option value="$PROJECT_DIR$/manufacturer-service-rest-client/src/test/java/com/gefa/fit/domain/TestManufacturerFactory.java" />
+        <option value="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/activities/ClientReadManufacturerActivity.java" />
+        <option value="$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/network/HttpBinding.java" />
       </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Manufacturer Service App" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Manufacturer Service App" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Manufacturer Service Rest Client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
@@ -208,6 +285,91 @@
             <path>
               <item name="manufacturer-service-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="manufacturer-service-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manufacturer-service-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manufacturer-service-app" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manufacturer-service-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manufacturer-service-app" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manufacturer-service-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manufacturer-service-app" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manufacturer-service-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manufacturer-service-app" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manufacturer-service-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manufacturer-service-app" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manufacturer-service-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manufacturer-service-app" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer-service-rest-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manufacturer-service-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manufacturer-service-app" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer-service-rest-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manufacturer-service-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manufacturer-service-app" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer-service-rest-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manufacturer-service-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manufacturer-service-app" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer-service-rest-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manufacturer-service-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manufacturer-service-app" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer-service-rest-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manufacturer-service-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manufacturer-service-app" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer-service-rest-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="manufacturer-service-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manufacturer-service-app" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer-service-rest-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -343,12 +505,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.68662953" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.68662953" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32729805" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -372,7 +534,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/Manufacturer.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/Manufacturer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
@@ -380,7 +542,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/ManufacturerState.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/ManufacturerState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
@@ -388,7 +550,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/ManufacturerCreatedState.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/ManufacturerCreatedState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -396,7 +558,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/AggregateRoot.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/AggregateRoot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
@@ -404,7 +566,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/api/SwaggerStartup.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/api/SwaggerStartup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
@@ -412,7 +574,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/representations/ManufacturerRepresentation.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/representations/ManufacturerRepresentation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
@@ -420,7 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/exceptions/ManufacturerCreationException.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/exceptions/ManufacturerCreationException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -428,7 +590,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/representations/ManufacturerRepresentation.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/representations/ManufacturerRepresentation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
@@ -436,7 +598,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/representations/converters/ManufacturerConverter.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/representations/converters/ManufacturerConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
@@ -444,7 +606,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/domain/Manufacturer.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/domain/Manufacturer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
@@ -452,7 +614,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/activities/ClientCreateManufacturerActivity.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/activities/ClientCreateManufacturerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="16" column="67" lean-forward="false" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
@@ -460,15 +622,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/activities/ClientReadManufacturerActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/activities/ClientRemoveManufacturerActivity.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/activities/ClientRemoveManufacturerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
@@ -476,7 +630,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/activities/ClientUpdateManufacturerActivity.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/activities/ClientUpdateManufacturerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
@@ -484,7 +638,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/representations/converters/ManufacturerConverter.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/representations/converters/ManufacturerConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
@@ -492,18 +646,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/ManufacturerService.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/ManufacturerService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
           <folding>
-            <element signature="e#2271#2272#0" expanded="false" />
-            <element signature="e#2341#2342#0" expanded="false" />
+            <element signature="e#2375#2376#0" expanded="false" />
+            <element signature="e#2452#2453#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/activities/RepresentationHypermediaProcessor.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/activities/RepresentationHypermediaProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
@@ -511,15 +665,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/test/java/com/gefa/fit/domain/TestManufacturerFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/repositories/ManufacturerRepository.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/repositories/ManufacturerRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
@@ -527,7 +673,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/events/ManufacturerCreatedEvent.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/events/ManufacturerCreatedEvent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -535,7 +681,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/infrastructure/DomainEventsDispatcher.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/infrastructure/DomainEventsDispatcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
@@ -545,7 +691,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/infrastructure/RXDomainEventsDispatcher.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/infrastructure/RXDomainEventsDispatcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
@@ -553,7 +699,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/resources/ManufacturerResourceImpl.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/resources/ManufacturerResourceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-78">
           <caret line="17" column="63" lean-forward="false" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
@@ -561,31 +707,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/server/UndertowServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="33" column="28" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/ekf/client/network/HttpBinding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/test/java/com/gefa/ekf/client/FitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/application/domain/repositories/MapManufacturerRepository.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/application/domain/repositories/MapManufacturerRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -593,10 +715,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/fit/boundary/inbound/rest/resources/ManufacturerResource.java">
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/boundary/inbound/rest/resources/ManufacturerResource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="47" column="58" lean-forward="false" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/test/java/com/gefa/manufacturer/client/FitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="50" column="67" lean-forward="false" selection-start-line="50" selection-start-column="67" selection-end-line="50" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/test/java/com/gefa/manufacturer/domain/TestManufacturerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manufacturer-service/src/main/java/com/gefa/manufacturer/server/UndertowServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="33" column="28" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/network/HttpBinding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manufacturer-service-rest-client/src/main/java/com/gefa/manufacturer/client/activities/ClientReadManufacturerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="87" lean-forward="false" selection-start-line="21" selection-start-column="87" selection-end-line="21" selection-end-column="87" />
           <folding />
         </state>
       </provider>
@@ -620,6 +784,7 @@
   </component>
   <component name="mavenExecuteGoalHistory">
     <option value="$PROJECT_DIR$/manufacturer-service" />
+    <option value="exec:java -e  -Dexec.mainClass=&quot;com.gefa.manufacturer.server.UndertowServer&quot;" />
     <option value="exec:java -e  -Dexec.mainClass=&quot;com.gefa.fit.server.UndertowServer&quot;" />
     <option value="exec:java -e  -Dexec.mainClass=&quot;com.gefa.ekf.server.UndertowServer&quot;" />
     <option value="exec:java -e  -Dexec.mainClass=&quot;com.gefa.ekf.server.Server&quot;" />

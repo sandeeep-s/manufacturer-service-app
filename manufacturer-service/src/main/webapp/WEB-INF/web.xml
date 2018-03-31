@@ -5,7 +5,7 @@
 
     <servlet>
         <servlet-name>SwaggerServlet</servlet-name>
-        <servlet-class>com.gefa.fit.api.SwaggerStartup</servlet-class>
+        <servlet-class>com.gefa.manufacturer.api.SwaggerStartup</servlet-class>
         <load-on-startup>2</load-on-startup>
     </servlet>
 
